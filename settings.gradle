@@ -1,0 +1,3 @@
+include ':vibrationex'
+include ':app'
+rootProject.name = "NotificationEx"
